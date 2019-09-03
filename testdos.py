@@ -10,4 +10,6 @@ print("test numero dos tres quatro bep bep bep bep beeeep bep bep be be bep bep 
 print("oh how much I want to work")
 print("I am the best employee")
 print("Not only a pm but also a developer")
+print("This is for everyone saying I lack technical experience")
+
 
