@@ -12,6 +12,8 @@ print("I am the best employee")
 print("Not only a pm but also a developer")
 print("This is for everyone saying I lack technical experience")
 print("You might be right but how many other people you know who did this")
+print("well maybe you know a bunch but I am one of them now")
+
 
 
 
